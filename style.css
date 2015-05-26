@@ -1,0 +1,38 @@
+.header {
+    width: 800px;
+    height: 70px;
+    background-color: black;
+    border-radius: 30px;
+    
+}
+
+img {
+    width: 900px;
+    float: center;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 38px;
+    text-align: center;
+    color: white;
+    
+}
+
+p {
+    font-family: tahoma, sans-serif;
+}
+
+li {
+    font-family: Tahoma, sans-serif;
+    list-style-type: square;
+}
+
+input {
+    width: 280px;
+}
+
+body{
+    background-color: red;
+    background-image: url(http://i.huffpost.com/gen/1244316/images/o-FIREWORKS-ACCIDENTS-facebook.jpg) ;
+}
